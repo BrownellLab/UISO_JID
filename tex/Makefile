@@ -56,7 +56,7 @@ export LC_ALL		?= C
 #
 # If you specify sources here, all other files with the same suffix
 # will be treated as if they were _include_ files.
-onlysources.tex	?= uiso.tex supp_methods.tex
+onlysources.tex	?= JID-2014-0228_Manuscript.tex JID-2014-0228_Supplemental_Methods.tex
 #onlysources.lhs	?=
 #onlysources.tex.sh	?=
 #onlysources.tex.pl	?=
